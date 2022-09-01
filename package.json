@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "nuxt": "3.0.0-rc.8",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "@vitejs/plugin-vue": "^3.0.3"
+  }
+}
