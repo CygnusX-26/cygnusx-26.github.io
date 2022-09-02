@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   target: 'static',
   router: {
-    base: '/personal-page/'
+    base: '/cygnusx-26.github.io/'
   },
   build: {
       postcss: {
