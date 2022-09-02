@@ -7,7 +7,7 @@
 					<br>
 					<p class="font-bold text-emerald-700">{{ message }}</p>
 					<a class="font-bold text-emerald-800" v-if="counter==2" href="https://github.com/CygnusX-26">Github page</a>
-					<p class="font-bold text-emerald-800" v-if="counter==3" >Discord: CygnusX#5667</p>
+					<!-- <p class="font-bold text-emerald-800" v-if="counter==3" >Discord: CygnusX#5667</p> -->
 					<p class="font-bold text-emerald-800" v-if="counter==3">Email: qh4nveh@gmail.com</p>
 					<a class="font-bold text-emerald-800" v-if="counter==3" href="https://www.linkedin.com/in/neil-van-eikema-hommes-34b369218/">Linked In</a>
 				</div>
