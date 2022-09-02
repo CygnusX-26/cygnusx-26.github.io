@@ -15,6 +15,9 @@
         </div>
     </div>
 </template>
+<script setup>
+	import '../assets/css/tailwind.css'
+</script>
 <script>
   export default {
     data() {
